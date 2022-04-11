@@ -242,10 +242,10 @@ nav{
       right: 0;
       margin: auto;
       padding: 10px 54px;
-      display: flex;
+      display: none;
       flex-direction: column;
       -webkit-box-shadow: 3px 5px 13px -3px rgba(0,0,0,0.97); 
-box-shadow: 3px 5px 13px -3px rgba(0,0,0,0.97);
+    box-shadow: 3px 5px 13px -3px rgba(0,0,0,0.97);
   }
 .payTitle{
     font-size: 20px;
@@ -264,4 +264,45 @@ label{
 
 .payInput::placeholder{
     color: rgb(114, 114, 114);
+}
+.cardIcons{
+    display: flex;
+    
+}
+.fa-brands{
+    margin-right: 20px;
+}
+.cardInfo{
+    display: flex;
+    justify-content: space-between;
+}
+.sm{
+    width: 30%;
+}
+.payBtn{
+    position: absolute;
+    height: 40px;
+    bottom: -40px;
+    width: 100%;
+    left: 0;
+    -webkit-box-shadow: 3px 5px 13px -3px rgba(0,0,0,0.97); 
+    box-shadow: 3px 5px 13px -3px rgba(0,0,0,0.97);
+    background-color: #369e62;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.close{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 2px;
 }
