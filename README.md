@@ -1,4 +1,4 @@
-# LightHouse 
+# Mast Chappal
 
 This is a website that we have created as a project on mental health for the Kurinji hackathon.
 
