@@ -5,67 +5,67 @@ console.log(wrapper)
 const products = [
   {
     id: 1,
-    title: "Some Item 0",
+    title: "louis vuitton",
     price: 119,
     colors: [
       {
-        code: "black",
-        img: "./img/airforce1.png",
+        code: "white",
+        img: "./img/chappal1.png",
       },
       {
-        code: "darkblue",
-        img: "./img/chappal1.png",
+        code: "brown",
+        img: "./img/airforce1.png",
       },
     ],
   },
   {
     id: 2,
-    title: "Some Item 1",
+    title: "Canvas",
     price: 149,
     colors: [
       {
-        code: "lightgray",
-        img: "./img/airforce1.png",
+        code: "green",
+        img: "./img/40.png",
       },
       {
-        code: "green",
-        img: "./img/chappal1.png",
+        code: "red",
+        img: "./img/41.png",
       },
     ],
   },
   {
     id: 3,
-    title: "Some Item 2",
+    title: "Ankle Boots",
     price: 109,
     colors: [
       {
-        code: "lightgray",
-        img: "./img/airforce1.png",
+        code: "maroon",
+        img: "./img/31.png",
       },
       {
-        code: "green",
-        img: "./img/chappal1.png",
+        code: "purple",
+        img: "./img/30.png",
       },
     ],
   },
   {
     id: 4,
-    title: "Some Item 3",
+    title: "High Heels",
     price: 129,
     colors: [
       {
-        code: "black",
-        img: "./img/airforce1.png",
+        code: "red",
+        img: "./img/21.png",
       },
       {
-        code: "lightgray",
-        img: "./img/chappal1.png",
+        code: "blue",
+        img: "./img/20.png",
       },
     ],
   },
   {
     id: 5,
-    title: "Some Item 4",
+    title: "Nike",
     price: 99,
     colors: [
       {

@@ -160,7 +160,7 @@ nav{
   }
   .featureimg{
     max-width: 150px;
-    min-height: 150px;
+    max-height: 100px;
   }
   .FeatureTitle{
       font-size: 20px;
@@ -305,4 +305,31 @@ label{
     justify-content: center;
     cursor: pointer;
     padding: 2px;
+}
+.footer {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.fade {
+    margin-top: 15px;
+    text-align: center;
+    opacity: 0.5;
+}
+
+ul a {
+    color: inherit;
+    text-decoration: none;
+}
+
+ul li {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+hr {
+    opacity: 0.3;
 }
