@@ -1,6 +1,6 @@
 # BootHub
 
-We have created a E-commerce website for our web technology class project.
+We have created an E-commerce website for our web technology class project.
 
 You can click on the links given below to visit our website:
 
@@ -11,9 +11,9 @@ https://anwesharoses.github.io/BootHub/
 
 We have various features on our website like:
 
-1.  We have products in our page that load dynamically.
+1.  We have products on our page that load dynamically.
 2.  Integrated payment method.
-3.  We have a variety of footwear and colour variants according to the consumer's choice.
+3.  We have a variety of footwear and color variants according to the consumer's choice.
 4.  Our website follows all the UI UX principles.
 5.  Responsive page so that it is a seamless experience for the mobile users as well.
 
@@ -27,14 +27,9 @@ We have various features on our website like:
 - [@Porush-19](https://github.com/Porush-19)
 
 
-## Demo
-
-https://youtu.be/TtCIohdCgdE
-
-
 ## Documentation
 
-[Documentation](https://docs.google.com/document/d/1FKeCQtZdWHpIuR8HY_g5RMFanNdZ1QTGgD9ocASva1k/edit?usp=sharing)
+[Documentation](https://docs.google.com/document/d/1G2yrBkCQh2YAUKAnRvL_8Eh51B_qdlp6La2igzjeXjc/edit?usp=sharing)
 
 
 ## Lessons Learned
@@ -56,14 +51,25 @@ https://youtu.be/TtCIohdCgdE
 
 ## Screenshots
 
-Slider
+#### Slider
 ![image](https://user-images.githubusercontent.com/101623662/163705247-6a134e20-947e-4cd6-9c4d-8f0c2fb35976.png)
 
-Products and Variants
+#### Facilities
+![image](https://user-images.githubusercontent.com/101623662/163715051-f784c792-e390-4856-9387-9274ac31b078.png)
+
+#### Products and Variants
 ![image](https://user-images.githubusercontent.com/101623662/163705297-3b5c54b5-aa6d-4b9b-802e-ded76bed4851.png)
 
-Payment Mode
+#### Payment Mode
 ![image](https://user-images.githubusercontent.com/101623662/163705318-2168dcf3-f20b-4f0b-9ee6-2f68ff0e81e9.png)
+
+#### Mobile Preview
+![WhatsApp Image 2022-04-17 at 6 26 35 PM](https://user-images.githubusercontent.com/101623662/163715406-27bb7938-08b2-4831-8138-d5f071681393.jpeg)
+
+![WhatsApp Image 2022-04-17 at 6 26 35 PM (1)](https://user-images.githubusercontent.com/101623662/163715301-3c6f77c1-48a4-40cc-85a6-ed9a5c7032a7.jpeg)
+
+![WhatsApp Image 2022-04-17 at 6 26 35 PM (2)](https://user-images.githubusercontent.com/101623662/163715305-ce08623d-8501-4aeb-9d45-77673f108793.jpeg)
+
 
 
 
