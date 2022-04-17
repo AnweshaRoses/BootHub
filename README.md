@@ -1,12 +1,10 @@
-# LightHouse 
+# BootHub
 
 We have created a E-commerce website for our web technology class project.
 
 You can click on the links given below to visit our website:
 
-https://www.your-lighthouse.co/
-
-https://anwesharoses.github.io/Lighthouse/
+https://anwesharoses.github.io/BootHub/
 
 
 ## Appendix
@@ -57,4 +55,15 @@ https://youtu.be/TtCIohdCgdE
 
 
 ## Screenshots
+
+Slider
+![image](https://user-images.githubusercontent.com/101623662/163705247-6a134e20-947e-4cd6-9c4d-8f0c2fb35976.png)
+
+Products and Variants
+![image](https://user-images.githubusercontent.com/101623662/163705297-3b5c54b5-aa6d-4b9b-802e-ded76bed4851.png)
+
+Payment Mode
+![image](https://user-images.githubusercontent.com/101623662/163705318-2168dcf3-f20b-4f0b-9ee6-2f68ff0e81e9.png)
+
+
 
