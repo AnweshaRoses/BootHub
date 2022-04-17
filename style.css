@@ -401,6 +401,10 @@ hr {
         font-size: 50px;
         margin: 0;
     }
+    .payment{
+        width: 90%;
+        padding: 20px;
+    }
     .footer{
         display: flex;
         flex-direction: column;
